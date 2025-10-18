@@ -3,7 +3,7 @@
 
 **asmualyousha/asmualyousha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi 👋, I'm Hi 👋, I'm Yousha</h1>
+<h1 align="center">Hi 👋, I'm Yousha</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
